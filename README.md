@@ -30,5 +30,6 @@ If you will change Deep learning make sure you upload updated markdown file (.md
 Make sure your code is working. It will not have any type or error.
 
 ⭐Testing Images
+
 If you do not have leaf images then you can use test images located in test_images folder
 Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
